@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Raw or restricted data
+dataset/
+data/
+GaitRec/
+gaitrec/
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+
+# Local outputs and manuscript build byproducts
+outputs/
+tmp/
+*.log
+*.aux
+*.out
+*.synctex.gz
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
